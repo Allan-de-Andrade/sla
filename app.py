@@ -4,7 +4,7 @@ import bcrypt
 conexao = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="Allan2311@",
+    password="",
     database="usuarios"
 )
 
